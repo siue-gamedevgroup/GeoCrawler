@@ -3,8 +3,15 @@ vsp = vsp + g;
 
 
 // jump
-if(place_meeting(x, y+1, obj_jonFloor) && key_jump){
-	vsp = -jump_speed;	
+if(key_jump){
+	if(place_meeting(x, y+1, obj_jonFloor)){
+		vsp = -jump_speed;	
+		doubleJumpUsed = false;
+	}
+	else if(doubleJump && !doubleJumpUsed){
+		vsp = -jump_speed;
+		doubleJumpUsed = true;
+	}
 }
 	
 

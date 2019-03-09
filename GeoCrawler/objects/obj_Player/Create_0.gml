@@ -15,3 +15,4 @@ hsp = 0;
 vsp = 0;
 deflect = false;
 doubleJump = false;
+doubleJumpUsed = false;

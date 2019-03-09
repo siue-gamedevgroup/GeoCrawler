@@ -5,3 +5,5 @@
 event_inherited();
 
 deflect = true;
+
+player_state = PlayerStates.triangle;

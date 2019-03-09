@@ -4,3 +4,5 @@
 // Inherit the parent event
 event_inherited();
 
+doubleJump = true;
+player_state = PlayerStates.square;

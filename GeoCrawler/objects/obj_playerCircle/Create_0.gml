@@ -5,3 +5,5 @@
 event_inherited();
 
 wlk_speed = 7.5;
+
+player_state = PlayerStates.circle;
