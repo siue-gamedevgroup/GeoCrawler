@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "116b27ec-4466-4809-a82d-dec4598c4e0e",
+            "Value": {
+                "id": "562129c9-099a-44df-bae9-117d1d37dbaf",
+                "resourcePath": "scripts\\scr_DoubleJump\\scr_DoubleJump.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1ac916cf-6cde-4e1b-995c-4d28e5121395",
             "Value": {
                 "id": "388864a0-12c4-4759-99b7-abacea2da286",
@@ -338,6 +346,7 @@
     "script_order": [
         "4946a286-01e1-4f4d-ab35-e4267cc02e0e",
         "d94bf1aa-a5b7-43ed-b724-8516d7e2f747",
+        "116b27ec-4466-4809-a82d-dec4598c4e0e",
         "813a2b6e-91e3-463f-b243-0dafe02c73c1"
     ],
     "tutorial": ""
