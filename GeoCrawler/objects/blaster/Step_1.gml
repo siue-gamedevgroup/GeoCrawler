@@ -1,9 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-
-
-
-
 var move=1;
 hsp=move*shoot;
 vsp=move*shoot;
@@ -20,4 +16,3 @@ hsp=0;
 
 }
 x=x+hsp;
-
