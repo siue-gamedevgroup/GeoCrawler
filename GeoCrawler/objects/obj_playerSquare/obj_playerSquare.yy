@@ -5,7 +5,7 @@
     "name": "obj_playerSquare",
     "eventList": [
         {
-            "id": "b265e14b-65f8-4b51-bd9b-e8443f296e12",
+            "id": "79077821-bd6b-4453-bc0f-2e4a288aeedf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

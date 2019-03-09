@@ -8,3 +8,5 @@ scr_GetPlayerInput();
 // act on input
 
 scr_MovePlayer();
+
+scr_Char_Switching();
