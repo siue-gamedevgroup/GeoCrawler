@@ -1,0 +1,1 @@
+var newRoom, newX, newY;
