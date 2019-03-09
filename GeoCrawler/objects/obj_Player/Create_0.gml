@@ -7,7 +7,7 @@ enum PlayerStates{
 	triangle,
 	circle
 }
-
+g = 3;
 wlk_speed = 5;
 jump_speed = 5;
 player_state = PlayerStates.none;
