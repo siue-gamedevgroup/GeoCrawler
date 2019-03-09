@@ -1,19 +1,10 @@
 {
-    "id": "ab4dbe49-31e2-4403-8dc5-14585cd5e528",
+    "id": "ad857beb-39f8-44de-822a-65f857168808",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_Player",
+    "name": "obj_jonFloor",
     "eventList": [
-        {
-            "id": "48d61a64-5501-406d-8616-0a9c20a5fa89",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "ab4dbe49-31e2-4403-8dc5-14585cd5e528"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "2687985f-ea97-45dd-89a6-95c4ee62f939",
+    "spriteId": "25aacf80-6311-4d8b-a973-82725e414b19",
     "visible": true
 }
