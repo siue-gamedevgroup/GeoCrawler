@@ -13,3 +13,4 @@ jump_speed = 0;
 player_state = PlayerStates.none;
 hsp = 0;
 vsp = 0;
+deflect = false;

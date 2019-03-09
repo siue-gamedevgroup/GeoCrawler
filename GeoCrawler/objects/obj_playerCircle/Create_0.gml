@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-jump_speed = 10;
+wlk_speed = 7.5;
