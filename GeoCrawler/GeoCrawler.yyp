@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "34381d97-073a-4f5d-b481-6a78b8987131",
+            "Value": {
+                "id": "a21f410c-3c93-4291-bfdb-db9085a84bee",
+                "resourcePath": "views\\34381d97-073a-4f5d-b481-6a78b8987131.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3deb2f5c-a4ee-4c97-8c2e-e4ee1041a3cb",
             "Value": {
                 "id": "260ad4f1-8a60-4b55-86b0-841a4f378cb7",
@@ -151,11 +159,35 @@
             }
         },
         {
+            "Key": "59d2f142-81fd-413f-98ea-5c2ac5cd65e0",
+            "Value": {
+                "id": "df607bd3-76a2-48ec-bb37-fd44a0efb019",
+                "resourcePath": "objects\\obj_turret\\obj_turret.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6119aa35-c43e-4998-959b-fbeebe318679",
+            "Value": {
+                "id": "93f52721-b9df-42f3-aa02-b6274f50afa6",
+                "resourcePath": "sprites\\spr_gun\\spr_gun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7608bfaa-0dbd-412c-a817-fc154fa0cc24",
             "Value": {
                 "id": "e47b2592-d5f0-4e12-a73d-2b892ce0165d",
                 "resourcePath": "objects\\obj_GameController\\obj_GameController.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7fff3e3b-64bf-4b4a-b3aa-d061c692464c",
+            "Value": {
+                "id": "5048b3d6-984a-46b1-b8d6-2389257332fb",
+                "resourcePath": "sprites\\spr_laser\\spr_laser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -243,6 +275,14 @@
             "Value": {
                 "id": "ad838dea-a17e-44b9-a1f2-183058f8a8da",
                 "resourcePath": "objects\\obj_jonFloor\\obj_jonFloor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b9f245d7-a053-48e6-8374-416b52153e93",
+            "Value": {
+                "id": "90df6de6-03fb-4fb6-880b-895acdd93ee7",
+                "resourcePath": "objects\\obj_laser\\obj_laser.yy",
                 "resourceType": "GMObject"
             }
         },
