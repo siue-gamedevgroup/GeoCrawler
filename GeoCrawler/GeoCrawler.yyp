@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1afe2bdb-b034-41e2-b2b2-e38dbe2741c3",
+            "Value": {
+                "id": "eda39705-a585-4565-8d1e-0ad546c7cfae",
+                "resourcePath": "objects\\obj_killer\\obj_killer.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d5aa8f9-6c35-406f-a6a9-73a093c56117",
             "Value": {
                 "id": "92d39b0b-4758-4624-a239-a34ee05bfdc3",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "83bcb9b1-e80a-4447-9830-a8ccc5c4b347",
+            "Value": {
+                "id": "35a5c9df-a9b1-4b1b-b0f0-8ba93442edc5",
+                "resourcePath": "sprites\\blast\\blast.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "880cebe2-d40a-49c2-a64e-376d1477d2b4",
             "Value": {
                 "id": "49187045-1f1b-4f35-8b20-980875435c84",
@@ -327,6 +343,14 @@
             }
         },
         {
+            "Key": "c8b73ea2-f57e-44c8-b4df-26f7c1b092fa",
+            "Value": {
+                "id": "ac8f95e1-d02b-42da-9645-60f8cd5eebe8",
+                "resourcePath": "objects\\blaster\\blaster.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "dc4853da-daec-4cfd-8775-6e994165c39e",
@@ -379,6 +403,14 @@
             "Value": {
                 "id": "e32a6b20-4d22-4244-96f4-490ae5f33ab5",
                 "resourcePath": "sprites\\RoomWarp\\RoomWarp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e8abf7b4-5aab-4e1a-a36c-ced2129cf3d4",
+            "Value": {
+                "id": "ee82f8e0-5800-473f-91a3-1bace114ed3e",
+                "resourcePath": "sprites\\sWall\\sWall.yy",
                 "resourceType": "GMSprite"
             }
         },
