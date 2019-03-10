@@ -4,6 +4,6 @@
 // Inherit the parent event
 event_inherited();
 
-wlk_speed = 7.5;
+wlk_speed = 6.0;
 
 player_state = PlayerStates.circle;
