@@ -10,15 +10,42 @@
         "7620fa1f-f244-4c3b-95ab-663b6d4854ff",
         "4b15214b-1b59-4227-adc5-21113d3a5d0e",
         "ad1b297b-2433-4461-b0ef-db6a1d171d52",
-        "ade6a928-a642-47c3-acc3-0edbac6eddc7"
+        "ade6a928-a642-47c3-acc3-0edbac6eddc7",
+        "bcd29957-119f-4b1f-bf56-423b767de3a1"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Instance",
+            "id": "d532410e-71a0-400d-8bba-336a8069570d",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+{"name": "inst_6A5C3CD9","id": "bcd29957-119f-4b1f-bf56-423b767de3a1","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6A5C3CD9","objId": "59d2f142-81fd-413f-98ea-5c2ac5cd65e0","properties": null,"rotation": 0,"scaleX": -1,"scaleY": 1,"mvc": "1.0","x": 672,"y": 480}
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Player",
             "id": "a37a6ede-06c5-4aa3-a767-b029068b5fa1",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -44,7 +71,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "jonFloor",
             "id": "97ae123a-600e-44c9-a648-2bb970d3472d",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -75,7 +102,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4289901056 },
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
