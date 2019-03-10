@@ -1,5 +1,5 @@
-newRoom = room5;
-newX = 20;
-newY = 20;
+newRoom = room2;
+newX = 0;
+newY = 300;
 
-//y = 300, x = 0
+//room 2 y = 300, x = 0
