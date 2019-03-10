@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1fcdb615-816a-4922-8919-e71e0ed729f9",
+            "Value": {
+                "id": "3d799000-6378-4372-be60-6715dad586ae",
+                "resourcePath": "sprites\\spr_spike\\spr_spike.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2225054d-055f-49aa-ada3-54491c9bc54d",
             "Value": {
                 "id": "7881035f-3edd-4725-8d64-8e516d34ec40",
@@ -207,10 +215,26 @@
             }
         },
         {
+            "Key": "6ac0a6d8-c740-42cf-b072-d1c160edb1ef",
+            "Value": {
+                "id": "399508eb-5ff8-4e4b-9708-80d378c8017e",
+                "resourcePath": "rooms\\room51\\room51.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "6d7e94b3-e11e-4f63-8253-4c2c69b3ca4a",
             "Value": {
                 "id": "24b413ec-63e0-4a10-b03b-80a8d890f090",
                 "resourcePath": "rooms\\roomtest0\\roomtest0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "71918c31-114b-4fe0-9e09-2d583404924f",
+            "Value": {
+                "id": "4635287d-4b8f-4c3f-a888-74e3ad014c18",
+                "resourcePath": "rooms\\room9\\room9.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -298,7 +322,7 @@
             "Key": "9acbcfd7-5137-4c46-b5f7-7136661bb530",
             "Value": {
                 "id": "1277bef0-bf33-49a4-8889-9b4d60f1fe2e",
-                "resourcePath": "rooms\\renametest1\\renametest1.yy",
+                "resourcePath": "rooms\\room5\\room5.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -347,6 +371,14 @@
             "Value": {
                 "id": "ad838dea-a17e-44b9-a1f2-183058f8a8da",
                 "resourcePath": "objects\\obj_jonFloor\\obj_jonFloor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae0f113e-4301-4ada-8bc1-c36d90e5f205",
+            "Value": {
+                "id": "dbb0d6ae-9cba-4a66-bc89-f83b58ed4e69",
+                "resourcePath": "objects\\obj_spike\\obj_spike.yy",
                 "resourceType": "GMObject"
             }
         },
