@@ -1,0 +1,19 @@
+Testing notes. 
+purple cirle:
+rgb(102, 45 ,145) 
+jump max: height: 2 squares, length: 6 squares 
+
+Red square:
+rgb(238, 28 ,36) 
+jump max: height: 5 squares, length: 10 squares
+
+Yellow triangle: 
+rgb(255, 255 ,0) 
+jump max: height: 2 squares, length: 5 squares*
+
+Background: 
+rgb(0, 127 ,127)
+
+All levels have been beaten individually. not sure if anyone defeated entire demo yet.
+
+*requires more testing to verify. 
