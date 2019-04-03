@@ -6,7 +6,8 @@
     "children": [
         "ab4dbe49-31e2-4403-8dc5-14585cd5e528",
         "984cd86c-bbc7-41e8-9ab5-7caf1af8ec76",
-        "c54cdbf9-3b3c-4583-a17a-c857af3d7a36"
+        "c54cdbf9-3b3c-4583-a17a-c857af3d7a36",
+        "e907efc5-5d9a-4da7-9343-b0ac465c143b"
     ],
     "filterType": "GMObject",
     "folderName": "Players",

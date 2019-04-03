@@ -43,3 +43,6 @@ if(place_meeting(x,y,obj_Player))
 		game_restart();
 	}
 }
+else if(place_meeting(x,y,obj_jonFloor)){
+	instance_destroy();	
+}

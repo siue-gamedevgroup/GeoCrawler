@@ -5,9 +5,9 @@ if(frame_count%fire_speed == 0){
 	frame_count = 1;
 	//fire
 	laser = obj_laser;
-	instance_create_layer(x-32, y, "Instance",laser);
-	laser.direc = Directions.left;
-	laser.std_speed = 3;
+	instance_create_layer(x, y, "Instance",laser);
+	laser.direc = turret_direc;
+	laser.std_speed = laser_speed;
 	
 }
 else{
